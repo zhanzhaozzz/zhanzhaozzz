@@ -17,7 +17,8 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,jquery,scss,tailwind,react,nextjs,vue,nuxt,pinia,electron,webpack,vite,,java,spring,python,flask,nodejs,nestjs,mysql,redis,vercel,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,sass,tailwind,react,nextjs,vue,nuxtjs,pinia,electron,webpack,vite&perline=14" /><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,py,flask,nodejs,nestjs,mysql,redis,vercel,docker,linux&perline=14" />
   </a>
 </p>
 ---
