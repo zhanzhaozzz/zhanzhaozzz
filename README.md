@@ -2,13 +2,9 @@
   <img src="./ZhanZhao.png" width="100%" alt="Zhan Zhao Header">
 </p>
 
-# 👋 你好, 我是展昭 (Zhan Zhao)
+# 👋Hey there, I'm Zhan Zhao (展昭) 
 
-<p align="left">
-  <img src="https://img.shields.io/badge/金融投研-Critical_Logic-gold?style=for-the-badge&logo=analogue&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agent-Engineering-blue?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full_Stack-Development-green?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Decoding+Markets+with+AI;Building+Autonomous+Agents;Full-stack+FinTech+Engineer)](https://git.io/typing-svg)
 
 > **「 在波动的市场中寻找确定的逻辑，在冗余的代码中构建极致的 AI 」**
 
@@ -19,24 +15,21 @@
 - **金融黑客 (Fin-Hacker)**：深耕二级市场研究框架，擅长将复杂的投资逻辑转化为自动化算法。
 - **Agent 架构师**：基于 **Spring AI Alibaba** 体系，构建能够理解金融研报、自动执行任务的多智能体系统。
 - **全栈极客**：从 Java 高并发后端到 Next.js 极致前端体验，全链路打通 AI 应用。
-
+<p align="center">
+  <img src="https://img.shields.io/badge/FinTech-投研专家-blue?style=for-the-badge&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agent-开发者-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vibe_Coding-探索者-8E44AD?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 ---
 
 ### 🛠 我的武器库 | Tech Stack
 
-#### 💠 后端 & AI (核心引擎)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,flask,nodejs,nestjs,mysql,redis&perline=15" height="45" />
-</p>
-
-#### 🎨 前端 & 交互 (视觉呈现)
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass,jquery&perline=15" height="45" />
-</p>
-
-#### ☁️ 运维 & 工具 (基础设施)
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,vercel,webpack,vite,electron&perline=15" height="45" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass,jquery"  />
+    <br>
+    <img src="https://skillicons.dev/icons?i=java,spring,py,nodejs,mysql,redis,docker,linux,git,vercel"  />
+  </a>
 </p>
 
 ---
@@ -64,8 +57,4 @@
   <a href="mailto:2926197140@qq.com"><img src="https://img.shields.io/badge/Email-2926197140%40qq.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/WeChat-添加好友-07C160?style=for-the-badge&logo=WeChat&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/小红书-展昭-FF2442?style=for-the-badge&logo=Xiaohongshu&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/contribution-svg?username=zhanzhaozzz&theme=radical" />
 </p>
