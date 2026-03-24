@@ -1,4 +1,10 @@
-# 👋 你好，我是 Zhan Zhao
+# 👋 你好，我是 Zhan Zhao 
+
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90E2&width=500&lines=Full-stack+Developer;FinTech+Research+Analyst;AI+Agent+Enthusiast;Vibe+Coding+Explorer" alt="Typing SVG" />
+  </a>
+</p>
 
 ### 👨‍💻 全栈开发 | 📈 金融投研 | 🤖 AI 爱好者
 
@@ -8,43 +14,50 @@
 
 ### 🛠 我的技术栈
 
-| 类别 | 技术 |
+| 类别 | 技术能力 |
 | :--- | :--- |
 | **后端/AI 框架** | Java (Spring Boot, **Spring AI Alibaba**), Python (FastAPI, LangChain) |
-| **前端** | Next.js, React, TypeScript, Tailwind CSS |
+| **前端生态** | Next.js, React, TypeScript, Tailwind CSS, Vue |
 | **金融投研** | 股票市场分析, 实时新闻聚合 (RSS/Web Scraping), 投资助手构建 |
-| **工具/部署** | Docker, Linux, Git, CI/CD |
+| **运维/部署** | Docker, Linux, Git, CI/CD, Vercel |
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,sass,tailwind,react,nextjs,vue,nuxtjs,pinia,electron,webpack,vite&perline=14" /><br>
-    <img src="https://skillicons.dev/icons?i=java,spring,py,flask,nodejs,nestjs,mysql,redis,vercel,docker,linux&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass,jquery&perline=10" height="40" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=java,spring,py,nodejs,mysql,redis,docker,linux,git,vercel&perline=10" height="40" />
   </a>
 </p>
+
 ---
 
 ### 🌟 正在进行的 AI & 投研项目
 
-- **[ai-news-bot-public](https://github.com/zhanzhaozzz/ai-news-bot-public)** *金融投研必备*：基于 AI 的全自动化新闻采集与摘要引擎，通过 LLM 提取核心投资逻辑。
-  
-- **[Spring-Alibaba-AI-BAP-Model-Chat](https://github.com/zhanzhaozzz/Spring-Alibaba-AI-BAP-Model-Chat)** *全能 AI 助手*：深度集成 Gemini 生态，支持多模态交互，是我个人 Agent 体系的核心。
+<p align="left">
+  <a href="https://github.com/zhanzhaozzz/ai-news-bot-public">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhanzhaozzz&repo=ai-news-bot-public&theme=transparent&title_color=4A90E2&text_color=777&icon_color=4A90E2" />
+  </a>
+  <a href="https://github.com/zhanzhaozzz/Spring-Alibaba-AI-BAP-Model-Chat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhanzhaozzz&repo=Spring-Alibaba-AI-BAP-Model-Chat&theme=transparent&title_color=4A90E2&text_color=777&icon_color=4A90E2" />
+  </a>
+</p>
 
-- **RedInk & xhs-image-preview** *自媒体工具链*：利用 AI 生成小红书图文内容，探索 AI 内容生产的新范式。
+* **[RedInk](https://github.com/zhanzhaozzz/RedInk)** & **xhs-image-preview**：自媒体工具链，利用 AI 生成小红书图文内容，探索 AI 内容生产新范式。
 
 ---
 
 ### 📊 我的 GitHub 统计
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhanzhaozzz&show_icons=true&theme=transparent" alt="zhanzhaozzz's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanzhaozzz&layout=compact&theme=transparent" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zhanzhaozzz&show_icons=true&theme=transparent&title_color=4A90E2&text_color=777&icon_color=4A90E2" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanzhaozzz&layout=compact&theme=transparent&title_color=4A90E2&text_color=777" alt="top-langs" />
 </p>
 
 ---
 
 ### 📱 跟我交流
-- **小红书/抖音**: 搜索 `Zhao Xiaoyao Xavier`（分享 AI Agent 与投研自动化干货）
-- **WeChat**: (填入你的微信号)
-- **Email**: 2926197140@qq.com
+* **小红书/抖音**: 搜索 `Zhao Xiaoyao Xavier`（分享 AI Agent 与投研自动化干货）
+* **WeChat**: (填入你的微信号)
+* **Email**: [2926197140@qq.com](mailto:2926197140@qq.com)
 
 > "在波动的市场中寻找确定的逻辑，在冗余的代码中构建极致的 AI。" 📉✨
