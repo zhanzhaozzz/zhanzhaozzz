@@ -15,6 +15,11 @@
 | **金融投研** | 股票市场分析, 实时新闻聚合 (RSS/Web Scraping), 投资助手构建 |
 | **工具/部署** | Docker, Linux, Git, CI/CD |
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,jquery,scss,tailwind,react,nextjs,vue,nuxt,pinia,electron,webpack,vite,,java,spring,python,flask,nodejs,nestjs,mysql,redis,vercel,docker,linux" />
+  </a>
+</p>
 ---
 
 ### 🌟 正在进行的 AI & 投研项目
