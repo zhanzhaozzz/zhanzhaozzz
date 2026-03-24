@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./ZhanZhao.png" width="100%" alt="Zhan Zhao Header">
+</p>
+
 # 👋 你好，我是 Zhan Zhao 
 
 <p align="left">
@@ -22,9 +26,9 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass,jquery />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass,jquery" />
     <br>
-    <img src="https://skillicons.dev/icons?i=java,spring,py,nodejs,mysql,redis,docker,linux,git,vercel />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,nodejs,mysql,redis,docker,linux,git,vercel"/>
   </a>
 </p>
 
